@@ -36,3 +36,5 @@ Los reportes se guardan en reports/red_FECHA.txt.
 Conceptos aprendidos
 YAML: indentación con 2 espacios, tipos de datos (string, int, bool, lista, mapa), strings con caracteres especiales entre comillas, variables de entorno con ${VAR}.
 Redes: ping mide alcanzabilidad y latencia, traceroute muestra la ruta, dig/nslookup resuelven DNS, curl verifica servicios HTTP, ss lista puertos abiertos. 
+EOF
+
